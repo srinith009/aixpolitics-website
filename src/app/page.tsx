@@ -185,7 +185,7 @@ export default function Home() {
             {/* Video Placeholder 1 */}
             <div className="brutal-container p-6 bg-white flex flex-col brutal-container-hover">
               <div className="aspect-video bg-black border-4 border-black mb-6 relative flex items-center justify-center overflow-hidden">
-                <video src="/testimonial-1.mp4" controls className="w-full h-full object-cover" preload="metadata" />
+                <video src="/testimonial-1-v2.mp4" controls className="w-full h-full object-cover" preload="metadata" />
               </div>
               <h3 className="brutal-heading text-3xl mb-2 uppercase">AI-GENERATED CAMPAIGN MESSAGE</h3>
               <p className="font-bold text-lg uppercase text-gray-500">EXACT VOICE & FACE CLONING</p>
@@ -194,7 +194,7 @@ export default function Home() {
             {/* Video Placeholder 2 */}
             <div className="brutal-container p-6 bg-brutal-blue text-white shadow-[12px_12px_0px_0px_#000] flex flex-col">
               <div className="aspect-video bg-black border-4 border-white mb-6 relative flex items-center justify-center overflow-hidden">
-                <video src="/testimonial-2.mp4" controls className="w-full h-full object-cover" preload="metadata" />
+                <video src="/testimonial-2-v2.mp4" controls className="w-full h-full object-cover" preload="metadata" />
               </div>
               <h3 className="brutal-heading text-3xl mb-2 text-brutal-yellow uppercase">PERSONALIZED VOTER OUTREACH</h3>
               <p className="font-bold text-lg uppercase text-gray-300">SEAMLESS REGIONAL DELIVERY</p>
